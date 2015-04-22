@@ -1,0 +1,5 @@
+site_name: Gdx2D
+pages:
+- ['index.md', "Readme"]
+- ['intro-guide.md', 'Guide d''introduction']
+theme: readthedocs
