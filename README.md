@@ -11,5 +11,7 @@ $ mkdocs serve			# Serving on http://127.0.0.1:8000
 $ mkdocs build --clean  # Build the static html content
 ```
 
+Installation instructions are available [here](http://www.mkdocs.org/#installation).
+
 ## License
 Project licensed under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).
